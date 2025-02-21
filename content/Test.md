@@ -1,2 +1,6 @@
+# first test page
+
 test
-stes
+
+[[index]]
+[this is a link](index.md)
